@@ -49,10 +49,10 @@ main {
 
 .name-display {
     background: white;
-    color: black;
+    color: rgb(120, 6, 178);
     padding-top: 25px;
     padding-bottom: 25px;
     font-family: cursive;
-    font size: 4em;
+    font size: 2em;
     font-weight: bold;
 }
