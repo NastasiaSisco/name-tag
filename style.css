@@ -28,3 +28,21 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.greeting {
+    text-transform: uppercase;
+}
+.name-tag {
+    background: red;
+    width: 300px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.name-display {
+    background: white;
+    color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
