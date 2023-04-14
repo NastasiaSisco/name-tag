@@ -13,7 +13,7 @@ sayHello();
 
 
 const nameElem = document.getElementById('name');
-nameElem.textContent = 'Julie';
+nameElem.textContent = '';
 
 const updateBtn = document.getElementById('update');
 
